@@ -99,3 +99,8 @@ body {
   background: color : rgb(255, 143, 143);
   font-family: sans-serif;
 }
+
+/* Televison */
+.Container {
+  display: block;
+}
